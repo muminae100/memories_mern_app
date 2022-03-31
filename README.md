@@ -6,3 +6,5 @@
 <li>Express</li>
 <li>MongoDB</li>
 </ul>
+
+![Memories screenshot](client/src/images/screenshot-ourmemories.png)
