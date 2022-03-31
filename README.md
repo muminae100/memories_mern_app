@@ -8,3 +8,6 @@
 </ul>
 
 ![Memories screenshot](client/src/images/screenshot-ourmemories.png)
+
+Setup:
+- run ```npm i && npm start``` for both client and server side to start the app on your local machine.
